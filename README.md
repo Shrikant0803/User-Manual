@@ -1,4 +1,4 @@
-# User Manual for Reserving a Car in Advance with Lyft/Uber
+# User Manual for Reserving a Car in Advance with Uber
 
 ## **Table of Contents:**
 1. Introduction
@@ -34,26 +34,29 @@ This guide is intended for users who want to plan and book a ride in advance usi
    
 **2.1 Downloading and Installing the App:** Visit the App Store or Google Play Store, search for "UberApp" and download and install the app.
 
-<img src="">
+![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/73c62e0a-a39c-4e63-bbdc-1286fcc95d22)
+
 
 **2.2 Creating an Account:** Open the app, click on "Sign Up," and follow the on-screen instructions to create an account.
 
-<img src="">
+![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/89b5ad37-0547-4a40-b2f7-7fdabf903833)
+
 
 **2.3 Logging In:** After creating an account, log in using your credentials.
 
-<img src="">
+![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/be19e911-8e0f-48dd-b484-b91582b035b6)
 
 ## 3. Navigating the App Interface
    
-**3.1 Home Screen Overview:** Explore the app's home screen to find the "Reserve a Ride" option.
+**3.1 Home Screen Overview:** Explore the app's home screen to find the "Reserve" option.
 
-<img src="">
+![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/7bf87f33-56a9-45e6-be00-8a935a81ef5f)
 
-**3.2 Accessing the Reservation Feature:** Click on "Reserve a Ride" to initiate the reservation process.
+**3.2 Accessing the Reservation Feature:** Click on "Reserve" to initiate the reservation process.
+
+![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/fec8c520-85e0-45c4-a245-8284dd82b2c0)
 
 **3.3 Account Settings:** Familiarize yourself with the account settings for a personalized experience.
-
 
 ## 4. Reserving a Car in Advance
 
@@ -61,11 +64,20 @@ This guide is intended for users who want to plan and book a ride in advance usi
 
 **4.2 Setting the Pickup Location:** Enter your pickup location using the map or by manually inputting the address.
 
+![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/9dff2926-73bf-4efa-9591-3ee7a018086a)
+
 **4.3 Choosing the Date and Time:** Specify the date and time for your reservation.
+
+![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/700bf6f1-780a-4eef-8a67-fecd6f88858c)
+
 
 **4.5 Selecting the Drop-off Location:** Enter your destination details.
 
+![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/9dff2926-73bf-4efa-9591-3ee7a018086a)
+
 **4.6 Confirming Reservation Details:** Review your reservation details and click "Confirm."
+
+![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/e645654f-0763-49a1-9918-6aa27e9799a2)
 
 
 ## 5. Managing Reservations
@@ -134,11 +146,11 @@ Encouragement for users to provide feedback.
 
 ## 13. Appendix A: Useful Links and Contact Information
 
-**13.1 Uber Support Websites:**
+**13.1 Uber Support Websites:** [https://help.uber.com/](https://help.uber.com/)
 
-**13.2 Customer Support Numbers:**
+**13.2 Customer Support Numbers:** 123123123123
 
-**13.3 Email Support**
+**13.3 Email Support** support@uber.com
 
 
 *Note: This user manual provides a comprehensive guide for users to reserve a car in advance using Lyft or Uber. Keep in mind that the app interfaces and features may evolve, so it's recommended to refer to the latest help documentation provided by Lyft and Uber for any updates or changes.*
