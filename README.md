@@ -1,16 +1,14 @@
 # User Manual for Reserving a Car in Advance with Lyft/Uber
 
 ## **Table of Contents:**
-
-[1.Introduction](#Introduction)
-
+1. Introduction
 2. Getting Started
 3. Navigating the App Interface
 4. Reserving a Car in Advance	
 5. Managing Reservations
 6. Payment and Pricing
 7. Notifications and Alerts
-8. [Troubleshooting](#Troubleshooting)
+8. Troubleshooting
 9. Tips for a Smooth Experience
 10. Privacy and Security
 11. Frequently Asked Questions (FAQs)
@@ -18,7 +16,7 @@
 13. Appendix A: Useful Links and Contact Information:
 
 
-## [1. Introduction](#Introduction)
+## 1. Introduction
 
 **1.1 Purpose of the Manual**
 
@@ -34,16 +32,23 @@ This guide is intended for users who want to plan and book a ride in advance usi
 
 ## 2. Getting Started
    
-**2.1 Downloading and Installing the App:** Visit the App Store or Google Play Store, search for "UberApp," and download and install the app.
+**2.1 Downloading and Installing the App:** Visit the App Store or Google Play Store, search for "UberApp" and download and install the app.
+
+<img src="">
 
 **2.2 Creating an Account:** Open the app, click on "Sign Up," and follow the on-screen instructions to create an account.
 
+<img src="">
+
 **2.3 Logging In:** After creating an account, log in using your credentials.
 
+<img src="">
 
 ## 3. Navigating the App Interface
    
 **3.1 Home Screen Overview:** Explore the app's home screen to find the "Reserve a Ride" option.
+
+<img src="">
 
 **3.2 Accessing the Reservation Feature:** Click on "Reserve a Ride" to initiate the reservation process.
 
