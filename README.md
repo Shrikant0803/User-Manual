@@ -1,4 +1,6 @@
 # User Manual for Reserving a Car in Advance with Uber
+Release 12.2
+![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/3f229450-1119-4a0f-a278-8fdfcf4e9931)
 
 ## **Table of Contents:**
 1. Introduction
@@ -37,7 +39,7 @@ This guide is intended for users who want to plan and book a ride in advance usi
 ![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/73c62e0a-a39c-4e63-bbdc-1286fcc95d22)
 
 
-**2.2 Creating an Account:** Open the app, click on "Sign Up," and follow the on-screen instructions to create an account.
+**2.2 Creating an Account:** Open the app, click on "Sign Up" and follow the on-screen instructions to create an account.
 
 ![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/89b5ad37-0547-4a40-b2f7-7fdabf903833)
 
@@ -153,4 +155,4 @@ Encouragement for users to provide feedback.
 **13.3 Email Support** support@uber.com
 
 
-*Note: This user manual provides a comprehensive guide for users to reserve a car in advance using Lyft or Uber. Keep in mind that the app interfaces and features may evolve, so it's recommended to refer to the latest help documentation provided by Lyft and Uber for any updates or changes.*
+*Note: This user manual provides a comprehensive guide for users to reserve a car in advance using Uber. Keep in mind that the app interfaces and features may evolve, so it's recommended to refer to the latest help documentation provided by Lyft and Uber for any updates or changes.*
