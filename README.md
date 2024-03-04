@@ -2,7 +2,8 @@
 
 ## **Table of Contents:**
 
-1. [Introduction](#Introduction)
+[1.Introduction](#Introduction)
+
 2. Getting Started
 3. Navigating the App Interface
 4. Reserving a Car in Advance	
@@ -17,7 +18,7 @@
 13. Appendix A: Useful Links and Contact Information:
 
 
-## 1. [Introduction](#Introduction)
+## [1. Introduction](#Introduction)
 
 **1.1 Purpose of the Manual**
 
