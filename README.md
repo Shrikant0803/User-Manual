@@ -1,5 +1,6 @@
 # User Manual for Reserving a Car in Advance with Uber
-Release 12.2
+### Release 12.2
+
 ![image](https://github.com/Shrikant0803/User-Manual/assets/91322830/3f229450-1119-4a0f-a278-8fdfcf4e9931)
 
 ## **Table of Contents:**
